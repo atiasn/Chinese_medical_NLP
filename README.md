@@ -114,6 +114,7 @@ Table of Contents:
 |`PreCT`|[[arXiv](https://arxiv.org/abs/2410.09890)]|[[HF](https://huggingface.co/datasets/Luffy503/PreCT-160K)]|160,000|
 |`BIOMEDICA`|[[arXiv](https://arxiv.org/abs/2505.22787)]|[[HF](https://huggingface.co/datasets/BIOMEDICA/biomedica_webdataset_24M)]|24M|
 |`MedVision`|[[arXiv](https://arxiv.org/abs/2511.18676)]|[[HF](https://huggingface.co/datasets/YongchengYAO/MedVision)]|30.8M|
+|`OmniScience`|-|[[HF](https://huggingface.co/datasets/UniParser/OmniScience)]|1.5M|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
