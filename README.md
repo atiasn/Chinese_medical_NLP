@@ -48,6 +48,8 @@ Table of Contents:
 |`Fleming-R1`|[[arXiv](https://arxiv.org/abs/2509.15279)]|[[HF (7B)](https://huggingface.co/UbiquantAI/Fleming-R1-7B)][[HF (32B)](https://huggingface.co/UbiquantAI/Fleming-R1-32B)]|-|[[Github](https://github.com/UbiquantAI/Fleming-R1)]|
 |`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (27B)](https://huggingface.co/google/medgemma-27b-text-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
 |`AntAngelMed`|-|[[HF (100B)](https://huggingface.co/MedAIBase/AntAngelMed)]|-|[[Github](https://github.com/MedAIBase/AntAngelMed)]|
+|`Baichuan-M3`|-|[[HF (235B)](https://huggingface.co/baichuan-inc/Baichuan-M3-235B)]|-|-|
+
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
@@ -58,7 +60,7 @@ Table of Contents:
 
 |**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
 |:-|:-:|:-:|:-:|:-:|
-|`HuatuoGPT-Vision`|[[arXiv](https://arxiv.org/abs/2406.19280)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B)][[HF 34B](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-34B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)]|
+|`HuatuoGPT-Vision`|[[arXiv](https://arxiv.org/abs/2406.19280)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B)][[HF 34B](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-34B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)]|
 |`ShizhenGPT`|[[arXiv](https://arxiv.org/abs/2508.14706)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/ShizhenGPT-7B-Omni)][[HF (32B)](https://huggingface.co/FreedomIntelligence/ShizhenGPT-32B-VL)]|[[HF (PT)](https://huggingface.co/datasets/FreedomIntelligence/TCM-Pretrain-Data-ShizhenGPT)][[HF (SFT)](https://huggingface.co/datasets/FreedomIntelligence/TCM-Instruction-Tuning-ShizhenGPT)]|[[Github](https://github.com/FreedomIntelligence/ShizhenGPT)]|
 |`Lingshu`|[[arXiv](https://arxiv.org/abs/2506.07044)]|[[HF (7B)](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B)][[HF 32B](https://huggingface.co/lingshu-medical-mllm/Lingshu-32B)]|-|-|
 |`LLaVA-Med`|[[arXiv](https://arxiv.org/abs/2306.00890)]|[[HF (7B)](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b)]|[[Github](https://github.com/microsoft/LLaVA-Med/tree/main/data)]|[[Github](https://github.com/microsoft/LLaVA-Med)]|
